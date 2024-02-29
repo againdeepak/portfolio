@@ -345,7 +345,7 @@ a {
     color: var(--bgOrange);
     font-size: 90px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 10px;
 
 }
 
@@ -387,6 +387,9 @@ a {
 
 #project4 {
     background-image: url("images/projects/weather.png");
+}
+#project5{
+    background-image: url("images/projects/passgenerator.png");
 }
 .rapidapi{
     width:50px;
