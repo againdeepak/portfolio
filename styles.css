@@ -391,6 +391,9 @@ a {
 #project5{
     background-image: url("images/projects/passgenerator.png");
 }
+#project6{
+    background-image: url('images/projects/shopping-cart.png');
+}
 .rapidapi{
     width:50px;
     border:3px solid rgb(255, 255, 255);
